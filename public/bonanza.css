@@ -1,0 +1,137 @@
+
+
+.font-weight-light{
+    font-family: serif;
+  
+  }
+  .para{
+    background-color: #17a48e;
+    letter-spacing: 1px;
+  }
+  .ml-100{
+    margin-left:130px;
+  }
+  .ml-30{
+    margin-left: 500px;
+  }
+  .mr-10{
+    margin-right: 95PX;
+  }
+  
+  
+  .ml-20{
+    margin-left: 350px;
+  }
+  .navbar-default{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     
+    }
+  
+  .nav-link {
+
+    color:  white !important;
+  }
+  .navbar-toggler:hover{
+    background-color:#17a48e;
+  }
+  .usa{
+       font-size: xx-small;
+  }
+  .drnav-item {
+    font-size: large;
+    
+  }
+  
+  .uk{
+    color: white;
+  
+  }
+  .uk:hover{
+    color: #17a48e;
+  }
+  .navbar.tab{
+    background-color: #17a48e;
+   
+  }
+  
+  .mr-10{
+    margin-right: 140px;
+  
+  }
+  .heading{
+    text-align: center;
+   text-shadow: 4px 3px 3px burlywood;
+   color: #17a48e ;
+   margin-top: 20px;
+   font-weight: bold;
+   letter-spacing: 10px;
+  }
+.navbar.bg-dark{
+  background-color: rgb(29, 77, 77) !important;
+}
+  .footer{
+    background-color: #17a48e;
+    
+    margin-top: 100px;
+  }
+  .pp{
+    background-color: rgb(21, 22, 22);
+    color: white;
+    margin-top: 110px;
+}
+  .add{
+    color: black;
+    font-weight: bolder;
+    margin-top: 50px;
+    letter-spacing: 2px;
+    font-size: medium;
+  } 
+  .add1{
+    color: black;
+    font-weight: bolder;
+  font-size: small;
+  } 
+  .add2{
+    color: black;
+    font-weight: bolder;
+    margin-top: 50px;
+  }
+  .add3{
+    color: black;
+    font-weight: bolder;
+    margin-top: 50px;
+  }
+  .add4{
+    color: black;
+  
+  }
+  .add5{
+    color: black;
+  
+  }
+  
+  .dropdown-item{
+    font-weight: bold !important;
+  }
+  .dropdown-item:hover{
+    color: #17a48e !important;
+   
+  }
+  .navbar-brand:hover{
+    color: #17a48e !important;
+  }
+  .icon{
+    margin-right: 10px;
+    color: black;
+  }
+
+/* @media only screen and (max-width :500px){
+  img{
+    
+  }
+
+} */
+
+
+
+  
